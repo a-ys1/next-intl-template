@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@c15t/react": "^1.1.2",
+    "@c15t/react": "^1.1.4",
     "next": "15.3.1",
     "next-intl": "^4.1.0",
     "react": "^19.0.0",
