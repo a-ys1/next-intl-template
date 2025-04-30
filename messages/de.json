@@ -1,0 +1,11 @@
+
+{
+	"HomePage": {
+		"title": "Startseite",
+		"about": "Über uns"
+	},
+	"LocaleSwitcher": {
+		"label": "Sprache ändern",
+		"locale": "{locale, select, de {🇩🇪 Deutsch} en {🇺🇸 English} other {Unbekannt}}"
+	}
+}
